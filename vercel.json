@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/view-source",
+      "destination": "https://search1.passivemoneyforum.com/?utm_source=taimoor&utm_medium=ooo1&utm_campaign=ooo1", 
+      "permanent": true
+    }
+  ]
+}
